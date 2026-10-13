@@ -1,0 +1,8 @@
+{
+  "name": "ELORA — Thoughtfully Gifted",
+  "description": "Personalised luxury gift hampers, corporate gifting, festive collections and curated celebrations in Kochi, Kerala.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
